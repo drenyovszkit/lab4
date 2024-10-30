@@ -1,0 +1,3 @@
+#everything fails in all
+GT4500,2,1,0,1
+TORPEDO,ALL
